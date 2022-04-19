@@ -1,5 +1,5 @@
 import { Link, Route, Routes } from "react-router-dom";
-import UsersList from "./components/UsersList/UsersList";
+import UsersList from "./components/UsersList/UsersList.js";
 
 function App() {
   return (
